@@ -1,0 +1,36 @@
+
+.header{
+    width: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 130px;
+}
+.headTitle{
+    color: white;
+    
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin-left: 13px;
+    margin-right: 13px;
+    padding-bottom: 3px;
+    font-size: 18px;
+    opacity: 0.5;
+}
+.links a:hover{
+    opacity: 1;
+    border-bottom: 5px solid ;
+
+}
+
+.footer_container{
+    margin-top: 120px;
+    text-align: center;
+    color: rgb(157, 152, 152);
+}
+.footer_container a{
+    color: rgb(255, 255, 255);
+}
